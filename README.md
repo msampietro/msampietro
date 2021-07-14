@@ -17,4 +17,4 @@ https://medium.com/geekculture/spring-data-jpa-a-generic-specification-query-lan
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=msampietro&show_icons=true&locale=en" alt="msampietro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msampietro&show_icons=true&locale=en" alt="msampietro" /></p>
