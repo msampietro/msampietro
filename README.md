@@ -16,4 +16,6 @@ https://sampietromartin.medium.com/spring-data-jpa-a-generic-specification-query
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msampietro&show_icons=true&locale=en&layout=compact" alt="msampietro" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msampietro&show_icons=true&locale=en" alt="msampietro" /></p>
