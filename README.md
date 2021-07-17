@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sampietromartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampietromartin" height="30" width="40" /></a>
 
-<h3 align="left">Main Languages and Tools I've worked with:</h3>
+<h3 align="left">Main languages and tools I've worked with:</h3>
 <p align="left"> 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,7 +36,7 @@
   </p>
 </p>
 
-### My GeekCulture Posts:
+### My GeekCulture posts:
 - 📚 <a href="https://medium.com/geekculture/hikaricp-multiple-connection-pools-over-single-physical-database-a1cda85fb33b" target="_blank">Streaming database data to .csv file efficiently— A practical implementation using Spring Boot and HikariCP</a>
 - 📚 <a href="https://medium.com/geekculture/spring-data-jpa-a-generic-specification-query-language-a599aea84856" target="_blank">Spring Data JPA: A Generic Specification Query Language</a>
 
