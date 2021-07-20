@@ -40,8 +40,5 @@
 - 📚 <a href="https://medium.com/geekculture/hikaricp-multiple-connection-pools-over-single-physical-database-a1cda85fb33b" target="_blank">Streaming database data to .csv file efficiently— A practical implementation using Spring Boot and HikariCP</a>
 - 📚 <a href="https://medium.com/geekculture/spring-data-jpa-a-generic-specification-query-language-a599aea84856" target="_blank">Spring Data JPA: A Generic Specification Query Language</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msampietro&theme=prussian&show_icons=true&locale=en&layout=compact" alt="msampietro" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msampietro&theme=prussian&hide=contribs,prs&count_private=true&show_icons=true&locale=en" alt="msampietro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msampietro&theme=prussian&show_icons=true&locale=en&layout=compact" alt="msampietro" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=msampietro&theme=prussian&hide=contribs,prs&count_private=true&show_icons=true&locale=en" alt="msampietro" /></p>
