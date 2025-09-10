@@ -18,11 +18,11 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 </p>
   <p align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
   <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"/>
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff"/>
-  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
   </p>
   <p align="left">
   <img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
@@ -44,4 +44,4 @@
 - 📚 <a href="https://medium.com/geekculture/spring-data-jpa-a-generic-specification-query-language-a599aea84856" target="_blank">Spring Data JPA: A Generic Specification Query Language</a>
 
 ### Contributions:
-- 👨‍💻 <a href="https://github.com/langchain4j/langchain4j/issues/3588" target="_blank">Langchain4J Bug Fix</a>
+- 👨‍💻 <a href="https://github.com/langchain4j/langchain4j/issues/3588" target="_blank">Langchain4j Issue #3588</a>
